@@ -4,6 +4,7 @@ This sample demonstrates realtime face recognition on Android. The project is ba
 
 ## Screenshots
 App Home page:
+
 <img src="./homepage.png" width="200">
 
 ### Real-time recognition mode: 
@@ -22,4 +23,5 @@ The at-home self-training mode is an interactive interface that allows the user 
 
 ### Contact Management:
 User can view and edit their contact list information
+
 <img src="./contactMangement.png" width="500">
