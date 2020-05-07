@@ -2,6 +2,11 @@
 
 This sample demonstrates realtime face recognition on Android. The project is based on the [Face Recognizer](https://github.com/pillarpond/face-recognizer-android).
 
+Prosopagnosia (commonly known as “face blindness”) is an impairment in recognizing or remembering (visual memory) faces due to neurological disorder. Thus, prosopagnosics cannot distinguish familiar people by face. Depending on the level of severity, other symptoms range from unable to identify self image, to differentiating faces from other objects.
+
+The goal of this project was to develop a computer-centred healthcare system for prosopagnosia patients. This system recognizes faces through a camera in real-time using an open-sourced face recognition library, facilitates face-name management with the option to add facial feature annotations to each face, and provides long-term at-home training to improve their face-processing skills.
+
+
 ## Screenshots
 App Home page:
 
