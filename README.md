@@ -1,7 +1,5 @@
 # Visual-Memory Prosthetic
 
-[![Build Status](https://travis-ci.org/pillarpond/face-recognizer-android.svg?branch=master)](https://travis-ci.org/pillarpond/face-recognizer-android)
-
 This sample demonstrates realtime face recognition on Android. The project is based on the [Face Recognizer](https://github.com/pillarpond/face-recognizer-android).
 
 ## Screenshots
